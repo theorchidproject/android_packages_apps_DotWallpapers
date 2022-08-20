@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">DotWallpapers</string>
+    <string name="app_name">Walkers Wallpapers</string>
 
-    <string name="walls_title">Dot Exclusives</string>
-    <string name="chromebook_title">Chromebook</string>
+    <string name="walls_title">PepsiOs Exclusives</string>
+    <string name="chromebook_title">PepsiOs</string>
 
-    <string name="dot0title">Droid on Time</string>
-    <string name="dot1title">Curly Space</string>
+    <string name="dot0title">MonsterMunch</string>
+    <string name="dot1title">Walkers</string>
     <string name="dot2title">Welcome aboard</string>
 
     <string name="chrm1title">Precious Water</string>
